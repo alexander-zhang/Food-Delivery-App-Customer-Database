@@ -1,0 +1,27 @@
+phoneNo name email totalAmtSpent numPurchases numNearbyRestaurants
+======================================================================
+669-976-2432 Alex_Sanchez alexBiccBoi@gmail.com 234 44 4
+408-112-8866 Takeshi_Yamamoto YamaYama222@gmail.com 157 12 5
+207-202-4331 Ivan_Leblanc LeblancNumber1@yahoo.com 611 67 13
+220-277-9858 Yamamoto_Yukihira ShoukugekiSanBan@gmail.com 777 34 16
+223-124-2342 Mary_Mope MopeyMopey@gmail.com 238 10 3
+232-166-4246 John_Smith johnSmith123@gmail.com 543 35 32
+321-134-1111 Nguyen_Nguyen Nguyenx2@gmail.com 567 45 11
+349-623-8181 Isacc_Pear IamthePear1@gmail.com 921 87 15
+408-123-5432 Jack_Jackson jackjack00@gmail.com 201 12 5
+408-131-4121 Big_Boy biccBoi66@gmail.com 342 22 8
+408-432-3111 Elmos_World elmoelmo33@gmail.com 321 32 10
+408-142-5431 Goes_Bin goesInMyBin@yahoo.com 699 54 13
+408-324-5054 Johnny_To Johnnjohn2@gmail.com 987 78 13
+413-143-1422 Aly_Sha AlySha11@gmail.com 255 11 3
+408-754-2425 Mike_Morales mikeyyy88@gmail.com 1000 40 6
+429-698-7743 Eileen_Evans Eileen8903@gmail.com 500 40 11
+471-829-4578 Heaven_Hope HopingForYou11@gmail.com 999 89 17
+494-562-1874 Gavin_Bellow IamBelowYouGG1@gmail.com 1203 98 20
+513-640-2556 Daniel_Paper PaperThin12@gmail.com 888 23 18
+536-623-2908 Martha_Hopes HopingFortheEnd12@gmail.com 748 54 16
+627-235-3573 Yashoe_Hero myShoeHero@gmail.com 643 53 11
+667-124-1311 John_Cena JohnCena12@gmail.com 341 31 10
+942-410-6131 Pepper_Peet PepperThePeet00@gmail.com 131 39 7
+795-657-9200 Nathan_Grape NathanTheGrape99@gmail.com 123 34 10
+671-634-2623 Aarianna_Fisher AFishyFishy22@gmail.com 754 65 13
