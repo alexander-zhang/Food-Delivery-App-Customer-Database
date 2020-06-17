@@ -2,7 +2,6 @@
 Alexander Zhang
 Yasuhiro Yamada
 John Le
-Gobind Bakhshi
 */
 
 #ifndef StacksAndQueue_h
